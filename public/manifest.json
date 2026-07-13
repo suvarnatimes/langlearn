@@ -1,0 +1,19 @@
+{
+  "name": "LinguaQuest: Learn Hindi via Telugu",
+  "short_name": "LinguaQuest",
+  "description": "Learn Hindi with interactive Telugu and English parallel translations, pronunciation guides, and automated high-quality voice guides.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#02000a",
+  "theme_color": "#1e1b4b",
+  "orientation": "portrait",
+  "categories": ["education", "books", "games"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}

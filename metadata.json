@@ -1,0 +1,6 @@
+{
+  "name": "LinguaQuest",
+  "description": "A high-performance language learning app for Hindi, with Telugu and English support, gamified progression, match games, and active Speech Synthesis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
